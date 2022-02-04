@@ -7,6 +7,6 @@ public class FactorialTest {
     @Test
     public void test1() {
         Factorial fact = new Factorial();
-        assertEquals(5, fact.Fact(3));
+        assertEquals(6, fact.Fact(3));
     }
 }
